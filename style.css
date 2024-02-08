@@ -1,0 +1,43 @@
+.education-section {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.education-list {
+  list-style: none;
+  padding: 0;
+}
+
+.education-list > li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.years {
+  font-weight: bold;
+  margin-left: auto;
+}
+
+.education-list strong {
+  color: #0056b3;
+  font-size: 18px;
+}
+
+.education-list ul {
+  list-style: none;
+  padding-left: 20px;
+  width: 100%;
+}
+
+.education-list li {
+  margin-top: 5px;
+  font-size: 16px;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
